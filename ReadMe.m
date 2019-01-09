@@ -8,3 +8,4 @@
 ## The folder PointCloud is build for 3D reconstruction by point clouds
 
 ## SEG.png is the conference poster
+## P.S.: There is some mistakes in "CG 2016" which means the students who began to study in SJTU at 2016
